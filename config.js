@@ -14,7 +14,7 @@ const CONFIG = {
     question:'Vì sao anh lại yêu em dợoooo 🥺🥺',
     btnReply: 'Gửi cho em nà 😝😝',
     reply: 'Vì em là em bé của mình anh thoiiii 😘😘',
-    mess: 'Em biết mà, hihi 😚😚',
+    mess: 'Em biết mà, hihi',
     messDesc: 'Vậy thì bớt chơi game lại đi:))',
     btnAccept: 'Dạ, anh biết gòi. Yêu emmmmmmm 🙆🙆',
     messLink: 'http://fb.com' //messages/t/100014015913631
